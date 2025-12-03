@@ -47,8 +47,6 @@ main {
     display: flex;
     flex-direction: column;
     gap: 25px;
-
-    /* Centraliza o conteúdo */
     margin: 30px auto;
 }
 
@@ -63,6 +61,7 @@ article {
     color: white;
     position: relative;
     overflow: hidden;
+    gap: 25px;
 }
 
 /* Efeito de brilho ao passar o mouse */
@@ -197,3 +196,4 @@ footer h2 {
     text-shadow: 2px 2px 10px #83eafc;
 
 }
+
